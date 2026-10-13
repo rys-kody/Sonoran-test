@@ -1,0 +1,19 @@
+{
+  "v": 3,
+  "createdOnFiles": { "v": 1, "at": "2026-10-13T12:05:00Z" },
+  "title": "Rocket Roofing Homepage Concepts",
+  "launch": { "view": "canvas" },
+  "pages": [],
+  "boards": {
+    "Main.dc.html": { "x": 0, "y": 0, "w": 1440, "h": 5200, "title": "01 · Launch Control", "expand": "fill" },
+    "Open-Book.dc.html": { "x": 1520, "y": 0, "w": 1440, "h": 5200, "title": "02 · Open Book", "expand": "fill" },
+    "Rubber-City.dc.html": { "x": 3040, "y": 0, "w": 1440, "h": 5200, "title": "03 · Rubber City Built", "expand": "fill" },
+    "Storm-Desk.dc.html": { "x": 4560, "y": 0, "w": 1440, "h": 5200, "title": "04 · Storm Desk", "expand": "fill" },
+    "One-Day.dc.html": { "x": 6080, "y": 0, "w": 1440, "h": 5200, "title": "05 · One Day", "expand": "fill" }
+  },
+  "order": ["Main.dc.html", "Open-Book.dc.html", "Rubber-City.dc.html", "Storm-Desk.dc.html", "One-Day.dc.html"],
+  "notes": {
+    "heading": { "x": 0, "y": -320, "text": "Rocket Roofing · Five homepage directions", "kind": "title1", "maxW": 7520 }
+  },
+  "designSystems": []
+}
